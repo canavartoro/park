@@ -1,0 +1,20 @@
+<%-- 
+    Document   : help
+    Created on : 30.Ağu.2010, 00:30:58
+    Author     : huseyin
+--%>
+
+<%@page contentType="text/html" pageEncoding="windows-1254"%>
+<%@include file="../adapter/jsp/yetki.jsp" %>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=windows-1254">
+        <title>JSP Page</title>
+    </head>
+    <body>
+        <div id="bilgi" class="info">Bu modül henüz tamamlanmadı!</div>
+    </body>
+</html>

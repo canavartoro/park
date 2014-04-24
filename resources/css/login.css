@@ -1,0 +1,241 @@
+BODY {
+	FONT: 12px verdana,arial,tahoma
+}
+HTML {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; HEIGHT: 100%; OVERFLOW: hidden; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+BODY {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; HEIGHT: 100%; OVERFLOW: hidden; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+#class .loading-indicator {
+	HEIGHT: 18px; FONT-SIZE: 12px
+}
+#docs .top-toolbar {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; BORDER-TOP: #d0d0d0 1px solid; BORDER-RIGHT: 0px
+}
+#docs .top-toolbar BUTTON {
+	
+}
+.x-panel-noborder {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+
+#header {
+	height: 30px;BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-LEFT: 3px; BACKGROUND: url(../../resources/images/hd-bg.gif) #1e4176 repeat-x 0px 0px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 3px
+}
+.docs-header .x-panel-body {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+#header {
+	
+}
+#header .api-title {
+	MARGIN: 5px; FONT: 16px tahoma, arial, sans-serif; COLOR: white
+}
+.loading-indicator {
+	BACKGROUND-IMAGE: url(../../resources/images/default/grid/loading.gif); TEXT-ALIGN: left; PADDING-LEFT: 20px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: left top; HEIGHT: 18px; FONT-SIZE: 11px
+}
+#doc-body .loading-indicator {
+	BACKGROUND-IMAGE: url(../../resources/images/default/shared/large-loading.gif); POSITION: absolute; TEXT-ALIGN: left; PADDING-BOTTOM: 10px; PADDING-LEFT: 38px; PADDING-RIGHT: 10px; BACKGROUND-REPEAT: no-repeat; FONT: bold 13px Tahoma, Verdana, Arial, Helvetica, sans-serif; BACKGROUND-POSITION: left 5px; COLOR: #444; TOP: 35%; PADDING-TOP: 10px; LEFT: 43%
+}
+A#welcome-link {
+	PADDING-LEFT: 18px; BACKGROUND: url(../../resources/images/docs.gif) #fff no-repeat 0px 0px
+}
+A#help-forums {
+	PADDING-LEFT: 34px; DISPLAY: block; BACKGROUND: url(../../resources/images/forum.gif) #fff no-repeat 16px 0px
+}
+#loading-mask {
+	Z-INDEX: 20000; POSITION: absolute; BACKGROUND-COLOR: white; WIDTH: 100%; HEIGHT: 100%; TOP: 0px; LEFT: 0px
+}
+#loading {
+	Z-INDEX: 20001; POSITION: absolute; PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; HEIGHT: auto; TOP: 40%; PADDING-TOP: 2px; LEFT: 45%
+}
+#loading IMG {
+	MARGIN-BOTTOM: 5px
+}
+#loading .loading-indicator {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 10px; MARGIN: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FONT: bold 13px tahoma,arial,helvetica; BACKGROUND: white; HEIGHT: auto; COLOR: #555; PADDING-TOP: 10px
+}
+#api-tree A SPAN {
+	FONT-FAMILY: verdana,arial,tahoma,sans-serif; FONT-SIZE: 11px
+}
+#api-tree .cls A:hover SPAN {
+	TEXT-DECORATION: underline
+}
+#api-tree .x-panel-body {
+	POSITION: relative; PADDING-BOTTOM: 3px; BACKGROUND-COLOR: white; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; PADDING-TOP: 3px
+}
+#api-tree .cls {
+	BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid
+}
+#api-tree .x-tree-selected {
+	BORDER-BOTTOM: #a3bae9 1px dotted; BORDER-LEFT: #a3bae9 1px dotted; BACKGROUND: #dfe8f6; BORDER-TOP: #a3bae9 1px dotted; BORDER-RIGHT: #a3bae9 1px dotted
+}
+#api-tree .x-tree-node .x-tree-selected A SPAN {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #1e4176; FONT-WEIGHT: bold
+}
+A {
+	COLOR: #1e4176
+}
+A:link {
+	COLOR: #1e4176; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #555; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #15428b; TEXT-DECORATION: underline
+}
+#welcome {
+	POSITION: relative; ZOOM: 1; TOP: 0px; LEFT: 0px
+}
+.col {
+	PADDING-BOTTOM: 10px; MARGIN: 0px 250px 0px 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; ZOOM: 1; PADDING-TOP: 10px
+}
+.col-last {
+	POSITION: absolute; WIDTH: 220px; TOP: 10px; RIGHT: 10px
+}
+.block {
+	MARGIN-BOTTOM: 10px
+}
+.block-title {
+	PADDING-BOTTOM: 4px; PADDING-LEFT: 8px; PADDING-RIGHT: 4px; FONT: 18px tahoma,verdana,sans-serif; LETTER-SPACING: -1px; COLOR: #1e4176; PADDING-TOP: 4px
+}
+.block-body {
+	PADDING-BOTTOM: 8px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; PADDING-TOP: 2px
+}
+.block-body B {
+	COLOR: #333333; FONT-SIZE: 11px
+}
+.block-body EM {
+	TEXT-ALIGN: right; MARGIN-TOP: 5px; DISPLAY: block; COLOR: gray; FONT-SIZE: 11px
+}
+.list {
+	LIST-STYLE-TYPE: square; MARGIN-TOP: 5px; PADDING-LEFT: 20px
+}
+.res-block {
+	WIDTH: 320px; margin: 10% auto; BACKGROUND: url(../../resources/images/login-block-top.gif) repeat-x; PADDING-TOP: 5px
+}
+.res-block-inner {
+	PADDING-BOTTOM: 6px; PADDING-LEFT: 11px; PADDING-RIGHT: 11px; BACKGROUND: url(../../resources/images/login-block-bottom.gif) no-repeat left bottom; PADDING-TOP: 6px
+}
+.res-block H3 {
+	FONT: bold 12px tahoma,arial,sans-serif; MARGIN-BOTTOM: 8px; COLOR: #555
+}
+.res-block UL {
+	LIST-STYLE-TYPE: disc; FONT: 12px tahoma,arial,sans-serif; COLOR: #555; MARGIN-LEFT: 15px
+}
+.res-block UL LI {
+	MARGIN: 0px 0px 5px 3px
+}
+.hide-inherited .inherited {
+	DISPLAY: none
+}
+#doc-body .x-tab-panel-body {
+	BACKGROUND: url(../../resources/images/default/form/text-bg.gif) #fff repeat-x 0px 0px
+}
+#doc-body .x-panel-body {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+#doc-body .body-wrap {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.icon-cls {
+	BACKGROUND-IMAGE: url(../../resources/images/class.gif) !important
+}
+.icon-event {
+	BACKGROUND-IMAGE: url(../../resources/images/event.gif) !important
+}
+.icon-config {
+	BACKGROUND-IMAGE: url(../../resources/images/example.gif) !important
+}
+.icon-prop {
+	BACKGROUND-IMAGE: url(../../resources/images/prop.gif) !important
+}
+.icon-method {
+	BACKGROUND-IMAGE: url(../../resources/images/method.gif) !important
+}
+.icon-cmp {
+	BACKGROUND-IMAGE: url(../../resources/images/cmp.gif) !important
+}
+.icon-pkg {
+	BACKGROUND-IMAGE: url(../../resources/images/pkg.gif) !important
+}
+.icon-fav {
+	BACKGROUND-IMAGE: url(../../resources/images/fav.gif) !important
+}
+.icon-static {
+	BACKGROUND-IMAGE: url(../../resources/images/static.gif) !important
+}
+.icon-docs {
+	BACKGROUND-IMAGE: url(../../resources/images/docs.gif) !important
+}
+.icon-expand-all {
+	BACKGROUND-IMAGE: url(../../resources/images/expand-all.gif) !important
+}
+.icon-collapse-all {
+	BACKGROUND-IMAGE: url(../../resources/images/collapse-all.gif) !important
+}
+.icon-expand-members {
+	BACKGROUND-IMAGE: url(../../resources/images/expand-members.gif) !important
+}
+.icon-hide-inherited {
+	BACKGROUND-IMAGE: url(../../resources/images/hide-inherited.gif) !important
+}
+#legend LI {
+	LINE-HEIGHT: 16px
+}
+.item-icon {
+	WIDTH: 16px; HEIGHT: 16px; VERTICAL-ALIGN: top; MARGIN-RIGHT: 6px
+}
+.ext-ie .item-icon {
+	VERTICAL-ALIGN: middle
+}
+H3.home-title {
+	MARGIN: 5px 0px; FONT: bold 13px tahoma,arial,sans-serif; COLOR: #444
+}
+.search-item {
+	PADDING-BOTTOM: 10px; MARGIN: 5px 5px 9px; PADDING-LEFT: 0px; PADDING-RIGHT: 5px; PADDING-TOP: 0px
+}
+.search-item .member {
+	MARGIN: 5px; ZOOM: 1; FONT: bold 12px tahoma,arial,sans-serif; WHITE-SPACE: nowrap; COLOR: #444; OVERFLOW: hidden
+}
+.search-item .cls {
+	TEXT-ALIGN: left; MARGIN: 5px; ZOOM: 1; FONT: 12px tahoma,arial,sans-serif; WHITE-SPACE: nowrap; COLOR: #444; OVERFLOW: hidden
+}
+.search-item P {
+	MARGIN: 0px 5px 5px 28px; ZOOM: 1; FONT: 11px tahoma,arial,sans-serif; COLOR: #444; CLEAR: both
+}
+#search .loading-indicator {
+	POSITION: static !important
+}
+#search H3 {
+	MARGIN: 10px; FONT: 12px tahoma,arial,sans-serif; COLOR: #444
+}
+.inner-link .item-icon {
+	MARGIN-RIGHT: 3px
+}
+.bookmark .item-icon {
+	MARGIN-RIGHT: 3px
+}
+.inner-link {
+	MARGIN-LEFT: 10px
+}
+.bookmark {
+	MARGIN-LEFT: 10px
+}
+.brick-icon {
+	BACKGROUND-IMAGE: url(../../resources/images/access/grid/hmenu-lock.png) !important
+}
+#login-main{
+    margin: 30px auto;width: 100%;height: 100%;
+}
+.x-button-ok{
+    BACKGROUND-IMAGE: url(../../resources/images/yourtheme/dd/drop-yes.gif) !important
+}
+.x-button-cancel{
+    BACKGROUND-IMAGE: url(../../resources/images/yourtheme/dd/drop-no.gif) !important
+}
+.x-form-field-wrap .x-select-trigger{background-image:url(../../resources/images/default/form/search-trigger.gif);cursor:pointer;}
+
+.x-users-form {background-image:url(../../resources/images/forum.gif);cursor:pointer;}

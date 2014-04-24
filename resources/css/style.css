@@ -1,0 +1,258 @@
+.body-wrap {
+	POSITION: relative; PADDING-BOTTOM: 10px; BACKGROUND-COLOR: #ffffff; MARGIN: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif; COLOR: #222; PADDING-TOP: 10px
+}
+.body-wrap {
+	WIDTH: 95%
+}
+.body-wrap UL.list {
+	MARGIN-BOTTOM: 10px; MARGIN-LEFT: 20px
+}
+.body-wrap UL.list LI {
+	LIST-STYLE-POSITION: inside; PADDING-BOTTOM: 2px; LIST-STYLE-TYPE: square; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; PADDING-TOP: 2px
+}
+.body-wrap .description P {
+	MARGIN: 8px 3px
+}
+.body-wrap .description H4 {
+	BORDER-BOTTOM: #ccc 1px dashed; PADDING-BOTTOM: 3px; MARGIN: 8px 0px; COLOR: #083772
+}
+.body-wrap {
+	FONT-SIZE: 13px
+}
+.body-wrap TD {
+	FONT-SIZE: 13px
+}
+.body-wrap TH {
+	FONT-SIZE: 13px
+}
+.body-wrap CODE {
+	FONT-FAMILY: "Lucida Console", "Courier New", Courier, monospace; FONT-SIZE: 12px
+}
+.body-wrap PRE {
+	FONT-FAMILY: "Lucida Console", "Courier New", Courier, monospace; FONT-SIZE: 12px
+}
+.body-wrap TH {
+	TEXT-ALIGN: left; BORDER-LEFT: #eee 1px solid; PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; BACKGROUND: url(../../resources/images/default/grid/grid3-hrow.gif) #f9f9f9 repeat-x 0px top; VERTICAL-ALIGN: middle; BORDER-TOP: #eee 1px solid; BORDER-RIGHT: #d0d0d0 1px solid; PADDING-TOP: 3px
+}
+.body-wrap .msource-header {
+	BORDER-RIGHT: 0px
+}
+.body-wrap .top-tools {
+	TEXT-ALIGN: right; FONT-SIZE: 11px
+}
+.body-wrap TABLE {
+	BACKGROUND-COLOR: white
+}
+.body-wrap A {
+	COLOR: #083772
+}
+.body-wrap A:link {
+	COLOR: #083772; TEXT-DECORATION: none
+}
+.body-wrap A:visited {
+	COLOR: #1e4e8f; TEXT-DECORATION: none
+}
+.body-wrap A:hover {
+	COLOR: #0000cc; TEXT-DECORATION: underline
+}
+.body-wrap A:active {
+	COLOR: #1e4e8f; TEXT-DECORATION: none
+}
+.body-wrap H1 {
+	MARGIN: 3px 300px 3px 0px; WIDTH: 90%; FONT-FAMILY: "Trebuchet MS", "Bitstream Vera Sans", verdana, lucida, arial, helvetica, sans-serif; LETTER-SPACING: 1px; FONT-WEIGHT: bold
+}
+.body-wrap H2 {
+	MARGIN: 3px 300px 3px 0px; WIDTH: 90%; FONT-FAMILY: "Trebuchet MS", "Bitstream Vera Sans", verdana, lucida, arial, helvetica, sans-serif; LETTER-SPACING: 1px; FONT-WEIGHT: bold
+}
+.body-wrap H3 {
+	MARGIN: 3px 300px 3px 0px; WIDTH: 90%; FONT-FAMILY: "Trebuchet MS", "Bitstream Vera Sans", verdana, lucida, arial, helvetica, sans-serif; LETTER-SPACING: 1px; FONT-WEIGHT: bold
+}
+.body-wrap H4 {
+	MARGIN: 3px 300px 3px 0px; WIDTH: 90%; FONT-FAMILY: "Trebuchet MS", "Bitstream Vera Sans", verdana, lucida, arial, helvetica, sans-serif; LETTER-SPACING: 1px; FONT-WEIGHT: bold
+}
+.body-wrap H5 {
+	MARGIN: 3px 300px 3px 0px; WIDTH: 90%; FONT-FAMILY: "Trebuchet MS", "Bitstream Vera Sans", verdana, lucida, arial, helvetica, sans-serif; LETTER-SPACING: 1px; FONT-WEIGHT: bold
+}
+.body-wrap H6 {
+	MARGIN: 3px 300px 3px 0px; WIDTH: 90%; FONT-FAMILY: "Trebuchet MS", "Bitstream Vera Sans", verdana, lucida, arial, helvetica, sans-serif; LETTER-SPACING: 1px; FONT-WEIGHT: bold
+}
+.body-wrap H1 {
+	FONT-SIZE: 18px
+}
+.body-wrap H2 {
+	PADDING-BOTTOM: 5px; FONT-SIZE: 15px; FONT-WEIGHT: bold; PADDING-TOP: 20px
+}
+.body-wrap H3 {
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 16px; FONT-WEIGHT: bold
+}
+.body-wrap H4 {
+	FONT-FAMILY: Tahoma, Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.body-wrap H5 {
+	FONT-SIZE: 11px
+}
+.body-wrap .label {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 15px; COLOR: #333; FONT-WEIGHT: bold; PADDING-TOP: 3px
+}
+.body-wrap .hd-info {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; COLOR: #333; PADDING-TOP: 3px
+}
+.body-wrap .hd-info A {
+	
+}
+.body-wrap .description {
+	MARGIN: 10px 0px
+}
+.body-wrap .member-table {
+	WIDTH: 100%; MARGIN-BOTTOM: 10px
+}
+.body-wrap .member-table TD {
+	PADDING-BOTTOM: 4px; PADDING-LEFT: 4px; PADDING-RIGHT: 15px; VERTICAL-ALIGN: top; PADDING-TOP: 4px
+}
+.body-wrap .member-table TD.sig {
+	PADDING-LEFT: 7px
+}
+.body-wrap .alt {
+	
+}
+.body-wrap .member-table TD.micon {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 16px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/expand-bg.gif) #f9f9f9 repeat-y right top; BORDER-RIGHT: #d0d0d0 1px solid; PADDING-TOP: 0px
+}
+.body-wrap .member-table TD.micon A {
+	WIDTH: 1px; DISPLAY: block; HEIGHT: 1px; OVERFLOW: hidden; CURSOR: default
+}
+.body-wrap .member-table .expandable TD.micon A {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; WIDTH: 98%; DISPLAY: block; HEIGHT: 30px; TEXT-DECORATION: none !important; -moz-outline: none
+}
+.body-wrap .member-table TD.msource {
+	WIDTH: 100px
+}
+.mlink {
+	FONT-WEIGHT: bold
+}
+.member-table {
+	BORDER-BOTTOM: #d0d0d0 1px solid; BORDER-LEFT: #d0d0d0 1px solid; BORDER-TOP: #d0d0d0 1px solid; BORDER-RIGHT: #d0d0d0 1px solid
+}
+.member-table TR.inherited TD.msource {
+	BACKGROUND-IMAGE: url(../images/inherited.gif); PADDING-LEFT: 18px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: 2px 4px
+}
+.member-table .mdesc {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #444; PADDING-TOP: 5px
+}
+.member-table TD.micon {
+	BORDER-TOP: #d0d0d0 1px solid
+}
+.member-table TD.sig {
+	BORDER-TOP: #d0d0d0 1px solid
+}
+.member-table TD.msource {
+	BORDER-TOP: #d0d0d0 1px solid
+}
+.body-wrap .optional {
+	COLOR: #444 !important
+}
+.body-wrap PRE {
+	BORDER-BOTTOM: #ccc 1px dotted; BORDER-LEFT: #ccc 1px dotted; PADDING-BOTTOM: 7px; LINE-HEIGHT: 14px; MARGIN: 1em 0px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; BACKGROUND: #f8f8f8; FONT-SIZE: 12px; BORDER-TOP: #ccc 1px dotted; BORDER-RIGHT: #ccc 1px dotted; PADDING-TOP: 7px
+}
+.detail-wrap {
+	
+}
+.mdetail-head {
+	MARGIN-TOP: 10px
+}
+.mdetail {
+	PADDING-BOTTOM: 7px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; BORDER-TOP: #ccc 1px dotted; PADDING-TOP: 7px
+}
+.mdetail H3 {
+	MARGIN: 5px 0px; COLOR: #083772; FONT-SIZE: 14px
+}
+.mdetail-desc {
+	MARGIN: 8px
+}
+.mdetail-def {
+	FONT-STYLE: italic; MARGIN-TOP: 10px; DISPLAY: block; MARGIN-LEFT: 8px; FONT-SIZE: 12px
+}
+.sub-desc {
+	MARGIN: 5px 5px 5px 16px
+}
+.mdetail-params {
+	MARGIN-TOP: 10px
+}
+.mdetail-params STRONG {
+	DISPLAY: block; MARGIN-BOTTOM: 3px; COLOR: #555; FONT-SIZE: 11px; FONT-WEIGHT: bold
+}
+.mdetail-params UL {
+	LIST-STYLE-POSITION: inside; LIST-STYLE-TYPE: circle; MARGIN: 12px
+}
+.mdetail-params LI {
+	LIST-STYLE-POSITION: inside; LIST-STYLE-TYPE: circle
+}
+PRE CODE {
+	LINE-HEIGHT: 16px !important; COLOR: #000; FONT-SIZE: 12px !important
+}
+PRE CODE B {
+	COLOR: #800080; FONT-WEIGHT: normal
+}
+PRE CODE EM {
+	BACKGROUND-COLOR: #eee; COLOR: #008080; FONT-WEIGHT: normal
+}
+PRE CODE I {
+	FONT-STYLE: normal; COLOR: #999; FONT-WEIGHT: normal
+}
+PRE CODE I B {
+	FONT-STYLE: normal; COLOR: #999; FONT-WEIGHT: normal
+}
+PRE CODE I EM {
+	FONT-STYLE: normal; COLOR: #999; FONT-WEIGHT: normal
+}
+.body-wrap .inheritance {
+	MARGIN-TOP: 20px; WIDTH: 210px; FLOAT: right
+}
+.body-wrap .inheritance PRE {
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: left; BORDER-LEFT: 0px; PADDING-BOTTOM: 5px !important; LINE-HEIGHT: 18px !important; MARGIN: 0px; PADDING-LEFT: 8px !important; PADDING-RIGHT: 8px !important; BACKGROUND: url(../images/block-bottom.gif) no-repeat left bottom; FONT-SIZE: 11px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px !important
+}
+.body-wrap .inheritance PRE IMG {
+	VERTICAL-ALIGN: middle; MARGIN-RIGHT: 3px
+}
+.expandable .micon A {
+	BACKGROUND: url(../images/member-collapsed.gif) no-repeat 5px 6px; CURSOR: pointer
+}
+.expandable TD.micon:hover A {
+	BACKGROUND: url(../images/member-hover.gif) no-repeat 5px 6px; CURSOR: pointer
+}
+.body-wrap .member-table .expanded TD.micon {
+	BACKGROUND: url(../images/expand-bg-over.gif) #f9f9f9 repeat-y right top
+}
+.body-wrap .member-table .expanded TD.micon A {
+	BACKGROUND: url(../images/member-expanded.gif) no-repeat 5px 6px; CURSOR: pointer
+}
+.mdesc .long {
+	DISPLAY: none
+}
+.mdesc .long .mdetail-params {
+	PADDING-LEFT: 12px; FONT-SIZE: 12px
+}
+.expanded .mdesc .short {
+	DISPLAY: none
+}
+.expanded .mdesc .long {
+	DISPLAY: block
+}
+.full-details .expandable .micon A {
+	WIDTH: 1px !important; HEIGHT: 1px !important; OVERFLOW: hidden; CURSOR: default
+}
+.full-details .mdesc .short {
+	DISPLAY: none !important
+}
+.full-details .mdesc .long {
+	DISPLAY: block !important
+}
+.full-details .body-wrap .member-table .expanded TD.micon {
+	BACKGROUND: url(../images/expand-bg.gif) #f9f9f9 repeat-y right top
+}
+DIV.hr {
+	LINE-HEIGHT: 1px; MARGIN: 5px 0px; BACKGROUND: #ccc; HEIGHT: 1px; OVERFLOW: hidden
+}
+.expanded .mdesc .long {
+	LINE-HEIGHT: 18px
+}

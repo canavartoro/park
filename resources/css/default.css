@@ -1,0 +1,29 @@
+ body .x-panel {
+     margin-bottom:20px;
+ }
+
+ .icon-grid {
+     background-image:url(../../resources/images/grid.png) !important;
+ }
+ 
+ #button-grid .x-panel-body {
+     border:1px solid #99bbe8;
+     border-top:0 none;
+ }
+ 
+ .add {
+     background-image:url(../../resources/images/add.gif) !important;
+ }
+
+ .option {
+     background-image:url(../../resources/images/plugin.gif) !important;
+ }
+ 
+ .remove {
+     background-image:url(../../resources/images/delete.gif) !important;
+ }
+
+ .save {
+     background-image:url(../../resources/images/save.gif) !important;
+ }
+
